@@ -144,7 +144,7 @@ CLC Genomics Workbench
 *  log in on the application server: address is `omics-app01.science.uva.nl` (**not** the headnode!!)::
 
 	#in terminal type:
-	clcgenomicswb20
+	clcgenomicswb21
 
 
 *  Remember, your home directory is 25G, so it is advisable to make your **default location** somewhere on /zfs/omics/personal/*uvanetid1*/
